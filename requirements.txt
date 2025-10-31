@@ -1,0 +1,8 @@
+# Minimal runtime requirements for this repository
+numpy
+mnist
+
+# Optional: PyTorch (used by cnn_keras.py). Install per your platform:
+# CPU example: pip install torch --index-url https://download.pytorch.org/whl/cpu
+# Or visit https://pytorch.org/get-started/locally/ for the correct wheel.
+torch
