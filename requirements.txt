@@ -6,3 +6,4 @@ mnist
 # CPU example: pip install torch --index-url https://download.pytorch.org/whl/cpu
 # Or visit https://pytorch.org/get-started/locally/ for the correct wheel.
 torch
+tensorflow
